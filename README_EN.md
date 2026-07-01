@@ -21,11 +21,11 @@ Deep readings of cross-civilizational classic works, exploring the common wisdom
 | Buddhism | Diamond Sutra, Heart Sutra, Platform Sutra, Vimalakirti Sutra, Shurangama Sutra | 5 |
 | Taoism | Tao Te Ching, Zhuangzi, Liezi | 3 |
 | Confucianism | Analects, Mencius, Great Learning, Doctrine of the Mean, I Ching | 5 |
-| Western Philosophy | Meditations, The Republic, Thus Spoke Zarathustra, On Liberty, Zen and the Art of Motorcycle Maintenance, Being and Time, Faust, The Myth of Sisyphus | 8 |
+| Western Philosophy | Meditations, The Republic, Thus Spoke Zarathustra, On Liberty, Zen and the Art of Motorcycle Maintenance, Being and Time, Faust, The Myth of Sisyphus, Conversations with God, Divine Comedy | 10 |
 | Religious/Wisdom | Ecclesiastes, Proverbs, Job, Confessions, Bhagavad Gita, Quran | 6 |
 | Cross-Civilizational | Emptiness & Nothingness, Inner Sageliness, Freedom & Liberation, Way of Action | 4 |
 
-**31 classics, ~670 files, all complete.**
+**33 classics, ~688 files, all complete.**
 
 ---
 
